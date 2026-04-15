@@ -1,0 +1,1 @@
+# yugo-static-assets
